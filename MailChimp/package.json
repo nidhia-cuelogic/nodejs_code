@@ -1,0 +1,14 @@
+{
+  "name": "MailChimp",
+  "version": "1.0.0",
+  "description": "MailChimp test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "mailchimp": "^1.1.0"
+  }
+}
